@@ -1,0 +1,9 @@
+= Everything You Need To Start Your Own Blog Is GIT(Hub) And UNIX Machine :) - 16-03-2025
+:author: steamtoad
+:created: 2025-03-16 20:22:54
+:lang: (en)
+:copyright: Copyright (c) 2025 Aleksandr A. Kharin. All rights reserved.
+
+Okay, Linux is ok too :)
+
+
