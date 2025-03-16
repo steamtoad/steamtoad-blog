@@ -5,4 +5,4 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)  
 ![AsciiDoc](https://img.shields.io/badge/Format-AsciiDoc-orange)
 
-By **steamtoad** | [View My Live Blog](https://github.com/steamtoad/steamtoad-blog)  
+By **steamtoad**
